@@ -1,9 +1,0 @@
-$ ./run_kubernetes.sh
-Error from server (AlreadyExists): pods "udacity-container" already exists
-NAME                READY   STATUS    RESTARTS   AGE
-udacity-container   1/1     Running   0          24m
-Forwarding from 127.0.0.1:80 -> 80
-Forwarding from [::1]:80 -> 80
-Prediction result: 
-[20.35373177134412]
-Handling connection for 80
