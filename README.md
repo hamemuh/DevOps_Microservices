@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<Udacity_Project>](https://circleci.com/gh/hamemuh/Udacity_Microservices/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/hamemuh/Udacity_Microservices_Project?branch=master)
 
 ## Project Overview
 
